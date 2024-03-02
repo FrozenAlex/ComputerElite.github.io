@@ -104,9 +104,9 @@
       "description": "Adds many togglable tweaks and options to tailor the game to your desire.",
       "id": "toomanytweaks",
       "version": "0.3.0",
-      "download": "https://github.com/mineblock11/TooManyTweaks/releases/download/0.3.0/toomanytweaks-0.3.0\u002B1251.qmod",
-      "source": "https://github.com/mineblock11/TooManyTweaks/",
-      "author": "mineblock11",
+      "download": "https://github.com/IMB11/TooManyTweaks/releases/download/0.3.0/toomanytweaks-0.3.0\u002B1251.qmod",
+      "source": "https://github.com/IMB11/TooManyTweaks/",
+      "author": "IMB11",
       "cover": null,
       "modloader": "QuestLoader"
     },
@@ -203,10 +203,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1251.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1251.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -214,10 +214,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0\u002B1251.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0\u002B1251.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -907,10 +907,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1251.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1251.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -1261,7 +1261,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1251.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "mineblock11",
+      "author": "IMB11",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -1272,7 +1272,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1251.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -1285,6 +1285,17 @@
       "source": "https://github.com/bsq-ports/BetterSongSearchQuest/",
       "author": "FrozenAlex, FernTheDev, FutureMapper, and Christoffyw",
       "cover": "https://raw.githubusercontent.com/bsq-ports/BetterSongSearchQuest/master/cover.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "ScoreQolour",
+      "description": "Changes your note, bomb and obstacle colours based on your score",
+      "id": "ScoreQolour",
+      "version": "1.0.0",
+      "download": "https://github.com/RileyPrince/ScoreQolour/releases/download/v1.0.0/ScoreQolour.qmod",
+      "source": "https://github.com/RileyPrince/ScoreQolour/",
+      "author": "Nuggo",
+      "cover": "",
       "modloader": "QuestLoader"
     }
   ],
@@ -2146,6 +2157,28 @@
       "author": "Unifox",
       "cover": "https://raw.githubusercontent.com/Unifox-BeatSaberThings/RainbowQuest/master/cover.png",
       "modloader": "QuestLoader"
+    },
+    {
+      "name": "Rainbow Quest",
+      "description": "Makes blocks and obstacles rainbow :D. By: Unifox",
+      "id": "RainbowQuest",
+      "version": "0.1.1",
+      "download": "https://github.com/Unifox-BeatSaberThings/RainbowQuest/releases/download/v0.1.1/RainbowQuest.qmod",
+      "source": "https://github.com/Unifox-BeatSaberThings/RainbowQuest/",
+      "author": "Unifox",
+      "cover": "https://raw.githubusercontent.com/Unifox-BeatSaberThings/RainbowQuest/master/cover.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "Rainbow Quest",
+      "description": "Makes blocks and obstacles rainbow :D. By: Unifox",
+      "id": "RainbowQuest",
+      "version": "0.1.0",
+      "download": "https://github.com/Unifox-BeatSaberThings/RainbowQuest/releases/download/v0.1.0/RainbowQuest.qmod",
+      "source": "https://github.com/Unifox-BeatSaberThings/RainbowQuest/",
+      "author": "Unifox",
+      "cover": "https://raw.githubusercontent.com/Unifox-BeatSaberThings/RainbowQuest/master/cover.png",
+      "modloader": "QuestLoader"
     }
   ],
   "1.17.1": [
@@ -3001,10 +3034,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1171.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1171.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3012,10 +3045,10 @@
       "description": "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)",
       "id": "vent",
       "version": "0.1.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1171.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1171.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3311,7 +3344,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1171.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -3322,7 +3355,7 @@
       "version": "0.1.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1171.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     }
@@ -3369,7 +3402,7 @@
       "download": "https://github.com/Metalit/QuestBeatSaviourData/releases/download/v2.0.0/BeatSaviorData.qmod",
       "source": "https://github.com/Metalit/QuestBeatSaviourData/",
       "author": "Metalit",
-      "cover": null,
+      "cover": "https://raw.githubusercontent.com/Metalit/QuestBeatSaviourData/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3762,10 +3795,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1210.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1210.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3773,10 +3806,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1210.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1210.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3828,10 +3861,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.0.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.0.0/Colorama-2.0.0-1210.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.0.0/Colorama-2.0.0-1210.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -3885,7 +3918,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1210.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -3896,7 +3929,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1210.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     }
@@ -4149,10 +4182,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1200.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1200.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4160,10 +4193,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1200.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1200.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4182,10 +4215,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.0.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.0.0/Colorama-2.0.0-1200.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.0.0/Colorama-2.0.0-1200.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4193,10 +4226,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/1.0.0/Colorama-1.0.0%2B1200.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/1.0.0/Colorama-1.0.0%2B1200.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4217,7 +4250,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1200.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -4228,7 +4261,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1200.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     }
@@ -4393,10 +4426,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1191.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1191.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4404,10 +4437,10 @@
       "description": "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1191.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1191.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4450,7 +4483,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0-1191.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -4461,7 +4494,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1191.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     }
@@ -4483,10 +4516,10 @@
       "description": "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1190.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "cal117",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1190.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -4518,7 +4551,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1190.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "cal117",
+      "author": "IMB11 (IMB11)",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     }
@@ -6628,7 +6661,7 @@
     },
     {
       "name": "CrashMod",
-      "description": "undefined",
+      "description": "Crash your game if you are bad and good\nFeatures:\n- Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
       "id": "CrashMod",
       "version": "0.10.0",
       "download": "https://github.com/ComputerElite/CrashMod/releases/download/0.10.0/CrashMod.qmod",
@@ -7238,10 +7271,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0\u002B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0\u002B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7249,10 +7282,10 @@
       "description": "Adds many togglable tweaks and options to tailor the game to your desire.",
       "id": "toomanytweaks",
       "version": "0.3.1",
-      "download": "https://github.com/mineblock11/TooManyTweaks/releases/download/0.3.1/TooManyTweaks-0.3.1\u002B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/TooManyTweaks/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/TooManyTweaks/master/cover.png",
+      "download": "https://github.com/IMB11/TooManyTweaks/releases/download/0.3.1/TooManyTweaks-0.3.1\u002B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/TooManyTweaks/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/TooManyTweaks/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7480,10 +7513,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0\u002B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0\u002B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7502,10 +7535,10 @@
       "description": "Adds many togglable tweaks and options to tailor the game to your desire.",
       "id": "toomanytweaks",
       "version": "0.3.1",
-      "download": "https://github.com/mineblock11/TooManyTweaks/releases/download/0.3.1/TooManyTweaks-0.3.1%2B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/TooManyTweaks/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/TooManyTweaks/master/cover.png",
+      "download": "https://github.com/IMB11/TooManyTweaks/releases/download/0.3.1/TooManyTweaks-0.3.1%2B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/TooManyTweaks/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/TooManyTweaks/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7513,10 +7546,10 @@
       "description": "Change the colors of the menu and other neat color related options.",
       "id": "colorama",
       "version": "2.1.0",
-      "download": "https://github.com/mineblock11/Colorama/releases/download/2.1.0/Colorama-2.1.0%2B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/Colorama/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Colorama/master/cover.png",
+      "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0%2B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7524,10 +7557,10 @@
       "description": "I swear you just vented...",
       "id": "vent",
       "version": "1.0.0",
-      "download": "https://github.com/mineblock11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1270_3631150051.qmod",
-      "source": "https://github.com/mineblock11/Vent/",
-      "author": "mineblock11",
-      "cover": "https://raw.githubusercontent.com/mineblock11/Vent/master/cover.png",
+      "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1270_3631150051.qmod",
+      "source": "https://github.com/IMB11/Vent/",
+      "author": "IMB11",
+      "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
     {
@@ -7966,7 +7999,7 @@
       "version": "0.3.1",
       "download": "https://github.com/IMB11/TooManyTweaks/releases/download/0.3.1/TooManyTweaks-0.3.1%2B1270_3631150051.qmod",
       "source": "https://github.com/IMB11/TooManyTweaks/",
-      "author": "mineblock11",
+      "author": "IMB11",
       "cover": "https://raw.githubusercontent.com/IMB11/TooManyTweaks/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -7977,7 +8010,7 @@
       "version": "2.1.0",
       "download": "https://github.com/IMB11/Colorama/releases/download/2.1.0/Colorama-2.1.0%2B1270_3631150051.qmod",
       "source": "https://github.com/IMB11/Colorama/",
-      "author": "mineblock11",
+      "author": "IMB11",
       "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -7988,7 +8021,7 @@
       "version": "1.0.0",
       "download": "https://github.com/IMB11/Vent/releases/download/1.0.0/Vent-1.0.0%2B1270_3631150051.qmod",
       "source": "https://github.com/IMB11/Vent/",
-      "author": "mineblock11",
+      "author": "IMB11",
       "cover": "https://raw.githubusercontent.com/IMB11/Vent/master/cover.png",
       "modloader": "QuestLoader"
     },
@@ -8134,6 +8167,28 @@
     }
   ],
   "1.28.0_4124311467": [
+    {
+      "name": "Replay",
+      "description": "Watch back your best scores!",
+      "id": "replay",
+      "version": "0.3.2",
+      "download": "https://github.com/Metalit/Replay/releases/download/0.3.2/Replay.qmod",
+      "source": "https://github.com/Metalit/Replay/",
+      "author": "Metalit",
+      "cover": "",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "Weeb Saber",
+      "description": "Weeb-ifies your Beat Saber",
+      "id": "weebsaber",
+      "version": "0.1.1",
+      "download": "https://github.com/hdgamer1404Jonas/WeebSaber/releases/download/0.1.1/Weeb.Saber.qmod",
+      "source": "https://github.com/hdgamer1404Jonas/WeebSaber/",
+      "author": "jonas",
+      "cover": "https://raw.githubusercontent.com/hdgamer1404Jonas/WeebSaber/master/logo.png",
+      "modloader": "QuestLoader"
+    },
     {
       "name": "GaySabers",
       "description": "Makes your sabers gay (i mean glow in rainbow colors)",
@@ -8400,7 +8455,7 @@
     },
     {
       "name": "Crash Mod",
-      "description": null,
+      "description": "Crash your game if you are bad and good\nFeatures:\n- Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
       "id": "CrashMod",
       "version": "0.12.0",
       "download": "https://github.com/ComputerElite/CrashMod/releases/download/0.12.0/CrashMod.qmod",
@@ -9497,6 +9552,116 @@
       "author": "hdgamer1404Jonas",
       "cover": "https://raw.githubusercontent.com/hdgamer1404Jonas/GaySabers/master/logo.gif",
       "modloader": "QuestLoader"
+    },
+    {
+      "name": "ScoreQolour",
+      "description": "Changes your note, bomb and obstacle colours based on your score",
+      "id": "ScoreQolour",
+      "version": "1.0.1",
+      "download": "https://github.com/NuggoDev/ScoreQolour/releases/download/v1.0.1/ScoreQolour.qmod",
+      "source": "https://github.com/NuggoDev/ScoreQolour/",
+      "author": "Nuggo",
+      "cover": "",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "DebrisTweaks",
+      "description": "Adds various debris tweaks!",
+      "id": "DebrisTweaks",
+      "version": "1.0.1",
+      "download": "https://github.com/NuggoDev/DebrisTweaks/releases/download/v1.0.1/DebrisTweaks.qmod",
+      "source": "https://github.com/NuggoDev/DebrisTweaks/",
+      "author": "Nuggo",
+      "cover": "",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "Trick Saber",
+      "description": "Mod that lets you throw and spin your sabers every which way you want!",
+      "id": "trick-saber",
+      "version": "0.0.1",
+      "download": "https://github.com/NuggoDev/TrickSaber-1.28.0/releases/download/0.0.1/Tricksaber.qmod",
+      "source": "https://github.com/NuggoDev/TrickSaber-1.28.0/",
+      "author": "RedBrumbler",
+      "cover": "https://raw.githubusercontent.com/NuggoDev/TrickSaber-1.28.0/master/cover.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "ThinSaberUI",
+      "description": "A frontend for the mod, ThinSaberCore",
+      "id": "thinsaberui",
+      "version": "0.1.0",
+      "download": "https://github.com/NuggoDev/ThinSaberUI/releases/download/v0.1.0/ThinSaberUI.qmod",
+      "source": "https://github.com/NuggoDev/ThinSaberUI/",
+      "author": "ThinSaberCore - Millzy, ThinSaberUI - Nuggo",
+      "cover": "",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "BeatLeader",
+      "description": "Open source custom maps leaderboard",
+      "id": "BeatLeader",
+      "version": "0.7.0",
+      "download": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.7.0/BeatLeader.qmod",
+      "source": "https://github.com/BeatLeader/beatleader-qmod/",
+      "author": "NSGolova",
+      "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "Colorama",
+      "description": "Change all the colors!",
+      "id": "colorama",
+      "version": "3.0.0",
+      "download": "https://github.com/IMB11/Colorama/releases/download/v3.0.0/Colorama-3.0.0%2B1.28.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "Weeb Saber",
+      "description": "Weeb-ifies your Beat Saber",
+      "id": "weebsaber",
+      "version": "0.1.2",
+      "download": "https://github.com/hdgamer1404Jonas/WeebSaber/releases/download/0.1.2/Weeb.Saber.qmod",
+      "source": "https://github.com/hdgamer1404Jonas/WeebSaber/",
+      "author": "jonas",
+      "cover": "https://raw.githubusercontent.com/hdgamer1404Jonas/WeebSaber/master/logo.png",
+      "modloader": "QuestLoader"
+    },
+    {
+      "name": "PinkCore",
+      "description": "PinkCore is a core mod that ports over the rest of SongCore\u0027s features.\nThis includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+      "id": "pinkcore",
+      "version": "1.9.0",
+      "download": "https://github.com/ModdingPink/PinkCore/releases/download/v1.9.0/PinkCore.qmod",
+      "source": "https://github.com/ModdingPink/PinkCore/",
+      "author": "RedBrumbler, Pink, StackDoubleFlow, Lillie, darknight1050",
+      "cover": "https://raw.githubusercontent.com/ModdingPink/PinkCore/master/cover.png",
+      "modloader": "Scotland2"
+    },
+    {
+      "name": "PinkCore",
+      "description": "PinkCore is a core mod that ports over the rest of SongCore\u0027s features.\nThis includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+      "id": "pinkcore",
+      "version": "1.9.1",
+      "download": "https://github.com/ModdingPink/PinkCore/releases/download/v1.9.1/PinkCore.qmod",
+      "source": "https://github.com/ModdingPink/PinkCore/",
+      "author": "RedBrumbler, Pink, StackDoubleFlow, Lillie, darknight1050",
+      "cover": "https://raw.githubusercontent.com/ModdingPink/PinkCore/master/cover.png",
+      "modloader": "Scotland2"
+    },
+    {
+      "name": "Colorama",
+      "description": "Change all the colors!",
+      "id": "colorama",
+      "version": "3.0.0",
+      "download": "https://github.com/IMB11/Colorama/releases/download/v3.0.1/Colorama-3.0.1%2B1.28.qmod",
+      "source": "https://github.com/IMB11/Colorama/",
+      "author": "IMB11 (IMB11)",
+      "cover": "https://raw.githubusercontent.com/IMB11/Colorama/master/cover.png",
+      "modloader": "QuestLoader"
     }
   ],
   "undefined": [
@@ -9523,6 +9688,19 @@
       "author": "Waffle",
       "cover": "",
       "modloader": "QuestLoader"
+    }
+  ],
+  "1.34.2_7115288407": [
+    {
+      "name": "GaySabers",
+      "description": "Makes your sabers gay (i mean glow in rainbow colors)",
+      "id": "gaysabers",
+      "version": "1.0.2",
+      "download": "https://github.com/hdgamer1404Jonas/GaySabers/releases/download/1.0.2/GaySabers.qmod",
+      "source": "https://github.com/hdgamer1404Jonas/GaySabers/",
+      "author": "hdgamer1404Jonas",
+      "cover": "https://raw.githubusercontent.com/hdgamer1404Jonas/GaySabers/master/logo.gif",
+      "modloader": "Scotland2"
     }
   ]
 }
